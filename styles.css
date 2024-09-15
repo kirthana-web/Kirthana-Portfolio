@@ -186,7 +186,7 @@ img {
     }
 
     #project-top {
-        padding-top: 10vh;
+        padding-top: 2vh;
         gap: 5vw
 
     }
@@ -197,7 +197,7 @@ img {
     }
 
     #main {
-        margin-top: 20vh;
+        margin-top: 10vh;
         max-width: 60vw;
     }
 
@@ -267,6 +267,18 @@ img {
 
     .project-scroll {
         margin-top: 45vh;
+    }
+
+    #sub-main {
+        max-width: 65vw;
+    }
+
+    #main {
+        margin-top: 15vh;
+    }
+
+    h1{
+        font-size: 6vh;
     }
 
 }
