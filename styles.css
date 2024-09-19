@@ -55,6 +55,7 @@ body{
     top: 0;
     left: 0;
     right: 0;
+    /* padding-bottom: 3vh; */
 
 }
 
@@ -142,8 +143,18 @@ img {
 #project-top-text {
     margin-bottom: 0;
     font-size: 6vh;
-    padding-top: 5vh;
+    padding-top: 3vh;
 }
+
+.line {
+    height: 0.1vh;
+    max-width: 90vw; 
+    margin-left: auto;
+    margin-right: auto;
+    background-color:rgb(233, 233, 228);
+}
+
+
 
 #project-card {
     display: flex;
